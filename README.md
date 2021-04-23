@@ -4,5 +4,5 @@ AI기술을 이용한 맞춤형 포장 사이즈 제공 서비스 구현 프로�
 <br>
 <br>
 
-[![중간발표](https://youtu.be/HgT7i2I0AeA/0.jpg)](https://youtu.be/HgT7i2I0AeA)
+[![중간발표]( https://img.youtube.com/vi/HgT7i2I0AeA/0.jpg)](https://youtu.be/HgT7i2I0AeA)
 
