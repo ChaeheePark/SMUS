@@ -14,7 +14,7 @@ AI기술을 이용한 맞춤형 포장 사이즈 제공 서비스 구현 프로�
 ### 최종발표
 (아래 사진을 클릭하면 재생됩니다.)
 
-[![썸네일](https://user-images.githubusercontent.com/60170358/120096882-c6bd8200-c168-11eb-9edd-582c188816b3.jpg)(https://youtu.be/Jaqd6QlexYo)
+[![최종발표](https://youtu.be/Jaqd6QlexYo/0.jpg)(https://youtu.be/Jaqd6QlexYo)
 
 
 ### 중간발표 
